@@ -10,9 +10,9 @@ El prototipo permite simular autenticación, detección de alertas, panel de mon
 
 ⚠️ Estas credenciales son solo para demostración del prototipo.
 
-# Usuario de Prueba: Juan Bustos
+Usuario de Prueba: Juan Bustos
 
-# Cédula: 1234567890
+Cédula: 1234567890
 
 Clave: admin123
 
