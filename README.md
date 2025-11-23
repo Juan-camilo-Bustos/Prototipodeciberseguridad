@@ -104,8 +104,8 @@ Foco en el flujo de trabajo del analista de seguridad
 
 
 
-# Autor
+Autor
 
-# Juan Camilo Bustos Silva
+Juan Camilo Bustos Silva
 
 Proyecto de Grado – Gestión Estratégica y Protección Integral de Sistemas Digitales
