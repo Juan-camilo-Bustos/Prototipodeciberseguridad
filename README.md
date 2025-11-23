@@ -1,46 +1,111 @@
-# Prototipo de Ciberseguridad 
+# Sistema de Ciberseguridad Empresarial – Prototipo Interactivo (TRL5)
+Proyecto de Grado – Gestión Estratégica y Protección Integral de Sistemas Digitales frente a Amenazas Cibernéticas Empresariales. 
 
-# Gestión Estratégica y Protección Integral de Sistemas Digitales frente a Amenazas Cibernéticas Empresariales
+# Descripción General
+
+Este repositorio contiene el prototipo funcional de ciberseguridad empresarial, desarrollado en Figma (modo Make) e integrado con toda la documentación técnica del proyecto de grado.
+El prototipo permite simular autenticación, detección de alertas, panel de monitoreo y flujos críticos de seguridad, cumpliendo con los criterios del nivel de maduración tecnológica TRL5.
+
+# Credenciales de Acceso al Prototipo
+
+⚠️ Estas credenciales son solo para demostración del prototipo.
+
+Usuario de Prueba: Juan Bustos
+
+Cédula: 1234567890
+
+Clave: admin123
+
+🖥️ Acceso al Prototipo Interactivo
+
+# Haz clic para abrir la simulación en Figma:
+
+🔗 Prototipo Interactivo (Modo Make)
+https://www.figma.com/make/RGxJ0QIkbwc75TLkHyIsSv/Prototipo-de-Ciberseguridad
+
+# 📂 Estructura del Repositorio
+
+/docs
+
+   ├── Informe_Proyecto_Grado.pdf
+   
+   ├── TRL5_Justificacion.pdf
+   
+   └── Arquitectura_Solucion.png
+
+/src
+
+   ├── Diagramas
+   
+   ├── Flujos_UX
+   
+   └── Analisis_Requerimientos.txt
+
+/prototipo
+
+   ├── pantallas_exportadas/
+   
+   ├── login.png
+   
+   ├── dashboard.png
+   
+   └── alertas.png
+
+# README.md
+
+📊 Nivel de Maduración Tecnológica – TRL5
+
+Este prototipo cumple con los requisitos de TRL5, ya que:
+
+✔ Presenta un prototipo funcional con simulación interactiva
+
+✔ Realiza validaciones básicas (flujo de login y navegación)
+
+✔ Integra pruebas con usuarios de evaluación
+
+✔ Está documentado y soportado en arquitectura e ingeniería
+
+✔ Se encuentra publicado en un repositorio formal (GitHub)
+
+
+🧱 Componentes del Sistema
+
+🔐 1. Módulo de Autenticación
+
+Validación de usuario de prueba
+
+Flujo de acceso seguro
+
+Campos controlados
+
+🛡️ 2. Panel de Seguridad
+
+Vista general del estado de ciberseguridad
+
+Alertas simuladas
+
+Estadísticas del sistema
+
+🚨 3. Módulo de Alertas
+
+Revisión de incidentes críticos
+
+Clasificación por niveles de riesgo
+
+🧭 4. Experiencia de Usuario
+
+Navegación simple e intuitiva
+
+Colores corporativos
+
+Foco en el flujo de trabajo del analista de seguridad
 
 
 
-# PROTOTIPO FUNCIONAL – SISTEMA DE GESTIÓN Y PROTECCIÓN DIGITAL
-Nivel de Madurez Tecnológica: TRL5
-Proyecto desarrollado en Make (Proto.io)
-
-https://www.figma.com/make/RGxJ0QIkbwc75TLkHyIsSv/Prototipo-de-Ciberseguridad?node-id=0-1&p=f&t=8JU9zeYcLDHSpeMJ-0&fullscreen=1
 
 
-Este repositorio contiene el prototipo funcional navegable del sistema diseñado para gestionar y proteger infraestructuras digitales frente a amenazas cibernéticas empresariales.
+# Autor
 
-#  Contenido del repositorio
+# Juan Camilo Bustos Silva
 
-index.html – Página principal del prototipo.
-
-/css – Estilos generados automáticamente por Make.
-
-/js – Scripts del prototipo.
-
-/assets – Imágenes, íconos y recursos multimedia.
-
-README.md – Documento descriptivo del prototipo.
-
-#  Objetivo
-
-El prototipo permite visualizar las interfaces clave del sistema:
-
-Flujos de gestión de riesgos
-
-Módulo de monitoreo
-
-Panel de análisis de incidentes
-
-Flujo de autenticación y control de acceso
-
-# Cómo ejecutar el prototipo
-
-Descargue el repositorio
-
-Abra el archivo index.html en cualquier navegador web
-
-Explore todas las pantallas y flujos
+Proyecto de Grado – Gestión Estratégica y Protección Integral de Sistemas Digitales
