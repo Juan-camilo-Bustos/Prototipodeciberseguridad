@@ -1,12 +1,15 @@
+# Prototipo de Ciberseguridad 
 
-  # Prototipo de Ciberseguridad 
-  # Gestión Estratégica y Protección Integral de Sistemas Digitales frente a Amenazas Cibernéticas Empresariales
+# Gestión Estratégica y Protección Integral de Sistemas Digitales frente a Amenazas Cibernéticas Empresariales
 
-  https://www.figma.com/make/RGxJ0QIkbwc75TLkHyIsSv/Prototipo-de-Ciberseguridad?node-id=0-1&p=f&t=8JU9zeYcLDHSpeMJ-0&fullscreen=1
+
 
 # PROTOTIPO FUNCIONAL – SISTEMA DE GESTIÓN Y PROTECCIÓN DIGITAL
 Nivel de Madurez Tecnológica: TRL5
 Proyecto desarrollado en Make (Proto.io)
+
+https://www.figma.com/make/RGxJ0QIkbwc75TLkHyIsSv/Prototipo-de-Ciberseguridad?node-id=0-1&p=f&t=8JU9zeYcLDHSpeMJ-0&fullscreen=1
+
 
 Este repositorio contiene el prototipo funcional navegable del sistema diseñado para gestionar y proteger infraestructuras digitales frente a amenazas cibernéticas empresariales.
 
