@@ -21,7 +21,7 @@ Clave: admin123
 # Haz clic para abrir la simulación en Figma:
 
 🔗 Prototipo Interactivo (Modo Make)
-https://www.figma.com/make/RGxJ0QIkbwc75TLkHyIsSv/Prototipo-de-Ciberseguridad
+https://www.figma.com/make/RGxJ0QIkbwc75TLkHyIsSv/Prototipo-de-Ciberseguridad?node-id=0-1&p=f&t=t9ymEOdFjFxnOLYR-0&fullscreen=1
 
 # 📂 Estructura del Repositorio
 
